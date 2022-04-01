@@ -4,12 +4,12 @@ The ubiquitous way of installing software in Linux is using Makefiles. This repo
 
 ## Quickstart
 
-Start by clone this git repository:
+Start by checking out the Subversion repository:
 ```sh
-git clone https://github.com/eic/make
+svn co https://github.com/eic/make
 ```
 
-After checking out the repository, simply use the following commands.
+After checking out the repository, simply use the following command:
 ```sh
 make all
 ```
