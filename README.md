@@ -11,7 +11,7 @@ git clone https://github.com/eic/make
 
 After checking out the repository, simply use the following commands.
 ```sh
-make
+make all
 ```
 
 After these simple steps you will have a fully operational EIC software environment (some compilation may be required).
